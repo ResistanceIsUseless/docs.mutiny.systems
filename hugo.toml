@@ -1,4 +1,4 @@
-baseURL = 'https:/docs.mutiny.systems'
+baseURL = 'https://docs.mutiny.systems'
 languageCode = 'en-us'
 title = 'docs.mutiny.systems'
 theme = 'hugo-dead-simple'
