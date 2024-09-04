@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:54146/docs.mutiny.systems/</loc>
+    <lastmod>2024-09-04T15:08:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:54146/docs.mutiny.systems/gardening/</loc>
+    <lastmod>2024-09-04T15:08:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:54146/docs.mutiny.systems/software/</loc>
+    <lastmod>2024-09-04T15:07:31-07:00</lastmod>
+  </url><url>
+    <loc>//localhost:54146/docs.mutiny.systems/categories/</loc>
+  </url><url>
+    <loc>//localhost:54146/docs.mutiny.systems/tags/</loc>
   </url>
 </urlset>

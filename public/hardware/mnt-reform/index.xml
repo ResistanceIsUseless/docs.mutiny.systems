@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on docs.mutiny.systems</title>
+    <link>//localhost:53964/docs.mutiny.systems/hardware/mnt-reform/</link>
+    <description>Recent content in Hardware on docs.mutiny.systems</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="//localhost:53964/docs.mutiny.systems/hardware/mnt-reform/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
