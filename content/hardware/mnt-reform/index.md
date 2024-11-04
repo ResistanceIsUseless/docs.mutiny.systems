@@ -1,6 +1,6 @@
 +++
 title = 'mnt reform pocket'
-date = 2024-09-04T15:07:41-07:00
+nodate: false # display date next to post title
 draft = false
 +++
 
