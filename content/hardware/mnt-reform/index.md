@@ -1,7 +1,5 @@
-+++
-title = 'mnt reform pocket'
-nodate: false # display date next to post title
-draft = false
-+++
-
-Something something
+---
+title: "MNT Reform"
+weight: 1
+nodat: false
+---

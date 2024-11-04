@@ -1,4 +1,31 @@
-baseURL = 'https://docs.mutiny.systems'
-languageCode = 'en-us'
-title = 'docs.mutiny.systems'
-theme = 'hugo-dead-simple'
+baseURL = "https://docs.mutiny.systems"
+languageCode = "en-us"
+title = "docs.mutiny.systems"
+enableGitInfo = true
+
+[menu]
+    [[menu.main]]
+        name = "<u>H</u>ome"
+        url = "https://docs.mutiny.systems"
+        weight = 1
+    [[menu.main]]
+        name = "<u>T</u>ags"
+        url = "https://docs.mutiny.systems/tags"
+        weight = 3
+
+[params]
+    description = "docs.mutiny.systems"
+
+[markup]
+    [markup.highlight]
+        codeFences = true
+        style = "bw"
+        lineNumbersInTable = false
+        noClasses = false
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[outputs]
+    home = ["html", "rss", "json"]
+    page = ["html"]

@@ -1,6 +1,6 @@
 +++
 title = 'uconsole'
-nodate: false # display date next to post title
+nodate = false
 draft = false
 +++
 
